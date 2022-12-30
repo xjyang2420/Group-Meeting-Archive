@@ -10,7 +10,7 @@
 |Week of Nov. 28| [An EEG Data-Driven Approach for the Analysis of Cognitive Nash Equilibrium](https://docs.google.com/presentation/d/1bB88g-FFVp2mQzFLlmyv80A1tBj5bJvD/edit?usp=share_link&ouid=108072553036143854923&rtpof=true&sd=true)| Patrick Yubeaton |  ||
 |  Week of Dec. 12   | [Talagrand Concentration Inequality]()|    Yunian Pan  |          |   |
 |Week of Dec. 26| An Introduction to Mirror Descent | Tao Li |  ||
-|  Week of Jan. 1    | [On the Nesterov Acceleration]()   |    Yunian Pan  |          |   |
+|  Week of Jan. 1    | [A High Probability Convergence Bound on Mirror Descent]()   |    Yunian Pan  |          |   |
 
 
 
